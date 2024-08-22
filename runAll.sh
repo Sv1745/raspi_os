@@ -5,8 +5,8 @@
 # Step 1: Create the directory
 mkdir -p /home/pi/Desktop/raspi/iiotpython_main/
 
-# Step 2: Clone files from GIT (You need to replace 'your_git_repo_url' with the actual URL)
-git clone your_git_repo_url /home/pi/Desktop/raspi/iiotpython_main/
+# Step 2: Clone files from GIT (You need to replace 'https://github.com/Sv1745/raspi_os' with the actual URL)
+git clone https://github.com/Sv1745/raspi_os /home/pi/Desktop/raspi/iiotpython_main/
 
 # Step 3: Make necessary changes to DB if needed
 # (Add your specific commands here, e.g., copying or editing database files)
